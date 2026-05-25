@@ -1,3 +1,7 @@
+## Author
+Emery Gisubizo 
+RollNumber:202511460
+
 # Student Management System
 
 ## Overview
@@ -39,5 +43,4 @@ g++ main.cpp student.cpp -o system
 Run:
 ./system
 
-## Author
-Your Name
+<img width="1366" height="765" alt="one" src="https://github.com/user-attachments/assets/a704b655-f816-4ded-8557-f884e1ceafa9" />
